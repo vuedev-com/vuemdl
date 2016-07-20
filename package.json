@@ -1,0 +1,19 @@
+{
+  "name": "vuemdl",
+  "version": "1.0.0",
+  "description": "vue material design components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuedev-com/vuemdl.git"
+  },
+  "author": "vuedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuedev-com/vuemdl/issues"
+  },
+  "homepage": "https://github.com/vuedev-com/vuemdl#readme"
+}
